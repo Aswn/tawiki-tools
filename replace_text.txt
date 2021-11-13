@@ -1,6 +1,9 @@
-[[The Hindu]],[[தி இந்து]]
-[[Government of India]],[[இந்திய அரசு]]
-[[The Times of India]],[[தி டைம்ஸ் ஆஃப் இந்தியா]]
-[[Deccan Chronicle]],[[தி டெக்கன் குரோனிக்கள்]]
-[[Tamil Virtual University]],[[தமிழ் இணையக் கல்விக்கழகம்]]
-[[The Indian Express]],[[இந்தியன் எக்சுபிரசு]]
+The Hindu
+Government of India
+The Times of India
+Deccan Chronicle
+Tamil Virtual University
+The Indian Express
+Box Office Mojo
+Hindustan Times
+Sify
